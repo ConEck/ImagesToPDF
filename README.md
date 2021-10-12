@@ -1,6 +1,6 @@
 readme languages: [English](README.md),[German](README.de_DE.md)
 # ImagesToPDF
-ImagesToPDF is a software with graphical user interface to convert images to PDF. It use the PoDoFo Tool podofoimg2pdf to convert images to PDF.
+ImagesToPDF is a software with graphical user interface to convert images to PDF. It use the PoDoFo Tool podofoimg2pdf to convert images to a PDF.
 
 ## Screenshots
 - Manjaro (KDE)
