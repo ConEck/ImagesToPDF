@@ -1,4 +1,4 @@
-readme Sprachen: [English](readme.md),[German](readme.de_DE.md)
+readme Sprachen: [English](README.md),[German](README.de_DE.md)
 # ImagesToPDF
 ImagesToPDF ist eine Software mit graphischer Nutzeroberfläche zum Konvertieren von Bildern in eine PDF. Es benötigt das PoDoFo Tool podofoimg2pdf um Bilder in eine PDF umzuwandeln.
 
